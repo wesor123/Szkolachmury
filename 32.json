@@ -89,7 +89,7 @@
     "nicName": "myVMNic",
     "addressPrefix": "10.0.0.0/16",
     "subnetName": "Subnet1",
-    "subnetName": "Subnet1",
+    "subnetName": "Subnet2",
     "subnetPrefix": "10.0.0.0/24",
     "virtualNetworkName": "MyVNET",
     "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('RWEU_Group-vnet'), variables('subnetName1'), variables('subnetName2'))]",
